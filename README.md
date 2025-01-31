@@ -2,7 +2,7 @@
 
 ## Preview
 
-**`neovim` dashboard (`snacks.nvim`):
+**`neovim` dashboard (`snacks.nvim`)**:
 
 ![](https://github.com/abarton51/kickstart.nvim/blob/master/neovim_dashboard.png?raw=true)
 
